@@ -1,7 +1,11 @@
 # Fatima's Portfolio Website
-Link to Website: https://codepen.io/fatima-d09/full/oNaJOjx
+💻 Link to Website: https://codepen.io/fatima-d09/full/oNaJOjx
 
-Utilized HTML and CSS to create a portfolio website.
+Utilized 
+            <i class="devicon-html5-plain-wordmark colored"></i>
+           and 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+           to create a portfolio website.
 
 Website follows modern website design principles.
 
